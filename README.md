@@ -4,9 +4,9 @@ A telegram bot to convert and compress videos into x265/x264 format via ffmpeg.
 ### Configuration
 
 **Basics**
-- `API_ID` - Get it by creating an app on [https://my.telegram.org](https://my.telegram.org)
-- `API_HASH` - Get it by creating an app on [https://my.telegram.org](https://my.telegram.org)
-- `BOT_TOKEN` - Get it by creating a bot on [https://t.me/BotFather](https://t.me/BotFather)
+- `API_ID` - Get it by creating an app on 10982443
+- `API_HASH` - Get it by creating an app on faf524527491b9b3ff5dde3cfa6b0558
+- `BOT_TOKEN` - Get it by creating a bot on 6659779436:AAESmGeAqgaapBy6rhhJbWm6M8J3tRh0uwk
 
 **Authorization**
 `Every Var can have space as seperator for multiple user/chat.`
@@ -19,7 +19,7 @@ A telegram bot to convert and compress videos into x265/x264 format via ffmpeg.
 
 **Database**
 - `SESSION_NAME`
-- `MONGO_URI` - A mongo db url for settings, addchat etc.
+- `MONGO_URI` - mongodb+srv://personaluse:ImCrAzYbOy@personaluse.ounsjuz.mongodb.net/?retryWrites=true&w=majority
 
 **Google Drive**
 - `INDEX_URL` - Index url for drive uploads
